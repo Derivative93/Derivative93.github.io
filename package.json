@@ -10,12 +10,12 @@
     "portfolio",
     "personal",
     "website",
-    "tech",
-    "coding",
-    "dev"
+    "cv",
+    "law",
+    "paralegal"
   ],
-  "author": "Ryan Fitzgerald",
-  "license": "MIT",
+  "author": "Charles White",
+  "license": "",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
