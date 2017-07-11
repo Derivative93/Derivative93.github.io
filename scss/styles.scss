@@ -459,19 +459,6 @@ footer {
     }
 }
 
-#blog {
-    padding: 75px 15px;
-    border-bottom: 1px solid $border;
-
-    h2 {
-        color: $heading;
-    }
-
-    p {
-        color: $text;
-        margin: 0;
-    }
-}
 /*
     --------------------------------
     ----- 6. Experience Styles -----
@@ -588,7 +575,21 @@ footer {
     ----- 7. Education Styles -----
     -------------------------------
 */
+#blog {
+    padding: 50px 15px 20px 15px;
+    border-bottom: 1px solid $border;
+    text-align: center;
 
+    h2 {
+        color: $heading;
+        margin-bottom: 50px;
+    }
+
+    p {
+        color: $text;
+        margin: 0;
+    }
+}
 #education {
     padding: 50px 15px 20px 15px;
     border-bottom: 1px solid $border;
